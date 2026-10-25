@@ -739,6 +739,11 @@
   height: auto;
 }
 
+.welx .logo_putp {
+  width: 140px;                         /* ширина логотипа, меняйте при необходимости */
+  height: auto;
+}
+
 .welx .fond-text {
   font-family: "Urbanist-Regular", Helvetica;
   font-size: 14px;
