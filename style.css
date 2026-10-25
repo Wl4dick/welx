@@ -1,0 +1,749 @@
+.welx {
+  background-color: #ffffff;
+  width: 100%;
+  min-width: 1440px;
+  min-height: 5244px;
+  display: flex;
+  flex-direction: column;
+  gap: 150px;
+}
+
+.welx .frame {
+  width: 100%;
+  height: 800px;
+  display: flex;
+  justify-content: center;
+  background-image: url(./img/rectangle-161123909.png);
+  background-size: 100% 100%;
+}
+
+.welx .div {
+  margin-top: 30px;
+  width: 1120px;
+  height: 740px;
+  margin-left: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.welx .frame-2 {
+  display: flex;
+  height: 63px;
+  width: 1120px;
+  position: relative;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 30px;
+}
+
+.welx .frame-3 {
+  display: flex;
+  align-items: center;
+  gap: 113px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.welx .WELX-SVGGG {
+  position: relative;
+  width: 170px;
+  height: 33px;
+}
+
+.welx .frame-4 {
+  display: inline-flex;
+  align-items: center;
+  gap: 40px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.welx .text-wrapper {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Urbanist-Regular", Helvetica;
+  font-weight: 400;
+  color: #ee7228;
+  font-size: 20px;
+  white-space: nowrap;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.welx .line {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 1px;
+  object-fit: cover;
+}
+
+.welx .frame-5 {
+  display: flex;
+  margin-left: 0;
+  height: 264px;
+  width: 1120px;
+  position: relative;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 30px;
+}
+
+.welx .p {
+  position: relative;
+  width: 690px;
+  margin-top: -1px;
+  font-family: "Urbanist-Bold", Helvetica;
+  font-weight: 700;
+  color: #ee7228;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.welx .frame-6 {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 60px;
+}
+
+.welx .text-wrapper-2 {
+  position: absolute;
+  top: 6px;
+  left: 0;
+  width: 537px;
+  font-family: "Urbanist-Regular", Helvetica;
+  font-weight: 400;
+  color: #ee7228;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.welx .text-wrapper-3 {
+  position: absolute;
+  top: 6px;
+  left: 583px;
+  width: 537px;
+  font-family: "Urbanist-Regular", Helvetica;
+  font-weight: 400;
+  color: #ee7228;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.welx .img {
+  position: absolute;
+  top: 0;
+  left: 50.00%;
+  width: 1px;
+  height: 60px;
+  object-fit: cover;
+}
+
+.welx .frame-7 {
+  width: 100%;
+  height: 669px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.welx .frame-8 {
+  width: 1120px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.welx .frame-9 {
+  display: flex;
+  width: 213px;
+  height: 82px;
+  position: relative;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+}
+
+.welx .text-wrapper-4 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: "Urbanist-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.welx .text-wrapper-5 {
+  position: relative;
+  align-self: stretch;
+  font-family: "Urbanist-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.welx .text-wrapper-6 {
+  margin-top: 46px;
+  width: 412px;
+  height: 24px;
+  font-family: "Urbanist-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  white-space: nowrap;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.welx .frame-10 {
+  display: inline-flex;
+  height: 467px;
+  width: 1120px;
+  position: relative;
+  align-items: center;
+  gap: 20px;
+}
+
+.welx .frame-11 {
+  display: flex;
+  flex-direction: column;
+  width: 550px;
+  align-items: flex-start;
+  gap: 30px;
+  position: relative;
+}
+
+.welx .rectangle {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 380px;
+  object-fit: cover;
+}
+
+.welx .text-wrapper-7 {
+  position: relative;
+  align-self: stretch;
+  font-family: "Urbanist-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.welx .frame-12 {
+  width: 100%;
+  height: 383px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 100px;
+}
+
+.welx .text-wrapper-8 {
+  width: 191px;
+  height: 48px;
+  font-family: "Urbanist-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 40px;
+  white-space: nowrap;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.welx .text-wrapper-9 {
+  margin-top: 12px;
+  width: 342px;
+  height: 24px;
+  font-family: "Urbanist-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  white-space: nowrap;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.welx .frame-13 {
+  margin-left: -1px;
+  height: 235px;
+  width: 957px;
+  position: relative;
+}
+
+.welx .frame-14 {
+  position: absolute;
+  top: 15px;
+  left: 0;
+  width: 957px;
+  height: 205px;
+  display: flex;
+  gap: 81px;
+}
+
+.welx .frame-15 {
+  display: flex;
+  margin-top: 9px;
+  width: 265px;
+  height: 177px;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  gap: 35px;
+}
+
+.welx .vector {
+  width: 61.11px;
+  height: 37px;
+  aspect-ratio: 1.65;
+  position: relative;
+  margin-top: -0.5px;
+}
+
+.welx .frame-16 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 20px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.welx .text-wrapper-10 {
+  margin-top: -1px;
+  font-family: "Urbanist-Medium", Helvetica;
+  font-weight: 500;
+  font-size: 24px;
+  position: relative;
+  align-self: stretch;
+  color: #000000;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.welx .text-wrapper-11 {
+  font-family: "Urbanist-Regular", Helvetica;
+  font-weight: 400;
+  font-size: 16px;
+  position: relative;
+  align-self: stretch;
+  color: #000000;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.welx .frame-17 {
+  display: flex;
+  width: 265px;
+  height: 205px;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  gap: 25px;
+}
+
+.welx .vector-2 {
+  width: 56px;
+  height: 56px;
+  aspect-ratio: 1;
+  position: relative;
+  margin-top: -0.5px;
+}
+
+.welx .frame-18 {
+  display: flex;
+  margin-top: 1px;
+  width: 265px;
+  height: 185px;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  gap: 26px;
+}
+
+.welx .vector-3 {
+  width: 61px;
+  height: 54px;
+  aspect-ratio: 1.12;
+  position: relative;
+  margin-top: -0.5px;
+}
+
+.welx .frame-19 {
+  position: absolute;
+  top: 0;
+  left: 304px;
+  width: 350px;
+  height: 235px;
+  display: flex;
+  gap: 349px;
+}
+
+.welx .line-2 {
+  width: 1px;
+  height: 235px;
+  object-fit: cover;
+}
+
+.welx .frame-20 {
+  margin: 0 auto;
+  width: 1120px;
+  height: 689px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.welx .frame-21 {
+  display: flex;
+  width: 455px;
+  height: 552px;
+  position: relative;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 100px;
+}
+
+.welx .frame-22 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.welx .frame-23 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 30px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.welx .text-wrapper-12 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: "Urbanist-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.welx .rectangle-2 {
+  margin-top: 34px;
+  width: 550px;
+  height: 655px;
+  object-fit: cover;
+}
+
+.welx .frame-wrapper {
+  width: 100%;
+  height: 800px;
+  display: flex;
+  justify-content: center;
+  background-image: url(./img/rectangle-161123916.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.welx .frame-24 {
+  margin-top: 100px;
+  width: 1038px;
+  height: 620px;
+  display: flex;
+  flex-direction: column;
+  gap: 384px;
+}
+
+.welx .text-wrapper-13 {
+  width: 380px;
+  height: 24px;
+  color: #ffffff;
+  font-size: 20px;
+  font-family: "Urbanist-Regular", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.welx .frame-25 {
+  display: inline-flex;
+  margin-left: 83px;
+  height: 212px;
+  width: 955px;
+  align-self: center;
+  position: relative;
+  align-items: flex-start;
+  gap: 80px;
+}
+
+.welx .frame-26 {
+  display: flex;
+  flex-direction: column;
+  width: 265px;
+  align-items: flex-start;
+  gap: 10px;
+  position: relative;
+}
+
+.welx .text-wrapper-14 {
+  color: #ffffff;
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: "Urbanist-Bold", Helvetica;
+  font-weight: 700;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.welx .text-wrapper-15 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: "Urbanist-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.welx .text-wrapper-16 {
+  position: relative;
+  align-self: stretch;
+  font-family: "Urbanist-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.welx .frame-27 {
+  margin: 0 auto;
+  width: 1120px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.welx .rectangle-3 {
+  width: 550px;
+  height: 655px;
+  object-fit: cover;
+}
+
+.welx .frame-28 {
+  display: flex;
+  width: 455px;
+  height: 502px;
+  position: relative;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 100px;
+}
+
+.welx .text-wrapper-17 {
+  color: #000000;
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: "Urbanist-Bold", Helvetica;
+  font-weight: 700;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.welx .text-wrapper-18 {
+  position: relative;
+  align-self: stretch;
+  font-family: "Urbanist-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.welx .frame-29 {
+  margin: 0 auto;
+  height: 318px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.welx .frame-30 {
+  align-self: flex-end;
+  height: 49px;
+  display: flex;
+  flex-direction: column;
+  gap: 29px;
+}
+
+.welx .frame-31 {
+  display: flex;
+  align-self: flex-end;
+  margin-right: 0;
+  width: 645px;
+  height: 19px;
+  position: relative;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+.welx .text-wrapper-19 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  color: #000000;
+  font-size: 16px;
+  white-space: nowrap;
+  font-family: "Urbanist-Regular", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.welx .line-3 {
+  width: 1120px;
+  height: 1px;
+  object-fit: cover;
+}
+
+.welx .frame-32 {
+  width: 645px;
+  height: 239px;
+  display: flex;
+  flex-direction: column;
+  gap: 89px;
+}
+
+.welx .frame-33 {
+  display: flex;
+  width: 299px;
+  height: 131px;
+  position: relative;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 30px;
+}
+
+.welx .frame-34 {
+  display: flex;
+  align-items: flex-start;
+  gap: 71px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.welx .frame-35 {
+  display: flex;
+  flex-direction: column;
+  width: 119px;
+  align-items: flex-start;
+  gap: 10px;
+  position: relative;
+}
+
+.welx .text-wrapper-20 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: "Urbanist-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.welx .text-wrapper-21 {
+  position: relative;
+  align-self: stretch;
+  font-family: "Urbanist-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.welx .frame-36 {
+  display: flex;
+  flex-direction: column;
+  width: 109px;
+  align-items: flex-start;
+  gap: 10px;
+  position: relative;
+}
+
+.welx .text-wrapper-22 {
+  margin-left: 475px;
+  height: 19px;
+  width: 170px;
+  align-self: center;
+  font-family: "Urbanist-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+/* ===== Блок "Фонд содействия инновациям" ===== */
+.welx .fond-block {
+  margin: 40px auto 0;                  /* центрируем, отступ сверху 40px */
+  width: 1120px;                        /* та же ширина, что у остальных секций */
+  display: flex;                        /* логотип и текст в одну строку */
+  align-items: center;                  /* выравнивание по вертикали */
+  justify-content: center;              /* центрируем по горизонтали */
+  gap: 30px;                            /* расстояние между логотипом и текстом */
+  padding: 30px 0;                      /* отступы сверху и снизу */
+  border-top: 1px solid #e0e0e0;        /* линия-разделитель сверху */
+}
+
+.welx .fond-logo {
+  width: 140px;                         /* ширина логотипа, меняйте при необходимости */
+  height: auto;
+}
+
+.welx .fond-text {
+  font-family: "Urbanist-Regular", Helvetica;
+  font-size: 14px;
+  color: #333333;                       /* тёмно-серый цвет текста */
+  margin: 0;
+  max-width: 500px;                     /* ограничение по ширине, чтобы текст переносился */
+  line-height: 1.4;
+}
